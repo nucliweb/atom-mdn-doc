@@ -1,7 +1,7 @@
 {
   "name": "mdn-doc",
   "main": "./lib/mdn-doc",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Atom MDN Doc is a package allows you to consult the documentation in the Mozilla Developer Network",
   "author": {
     "name": "Joan León",
