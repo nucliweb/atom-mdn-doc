@@ -2,7 +2,7 @@
   "name": "mdn-doc",
   "main": "./lib/mdn-doc",
   "version": "0.2.0",
-  "description": "Put your cursor on a keyword or select it and search for it using the 'mdn' command to get MDN Doc",
+  "description": "Atom MDN Doc is a package allows you to consult the documentation in the Mozilla Developer Network",
   "author": {
     "name": "Joan León",
     "github": "https://github.com/nucliweb",
