@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-workspace": [
+      {
+        "label": "MDN Doc",
+        "command": "mdn-doc:doc"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "MDN Doc",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mdn-doc:doc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
