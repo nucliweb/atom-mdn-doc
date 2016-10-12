@@ -1,7 +1,7 @@
 {
   "name": "mdn-doc",
   "main": "./lib/mdn-doc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Put your cursor on a keyword or select it and search for it using the 'mdn' command to get MDN Doc",
   "author": {
     "name": "Joan León",
@@ -24,6 +24,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
